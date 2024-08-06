@@ -4,6 +4,6 @@
 
 • Created responsive and user-friendly UI components for browsing products.
 
-Implemented using:
+# Implemented using:
 
 HTML, CSS, Javascript
